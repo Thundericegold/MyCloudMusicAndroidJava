@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/drawable/shape_circle_light_grey.xml" value="0.2185" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/drawable/shape_color_primary.xml" value="0.2185" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/drawable/shape_round_dialog_background.xml" value="0.213" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/drawable/shape_toast_background.xml" value="0.193" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/drawable/shape_toast_error_background.xml" value="0.213" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/drawable/shape_toast_success_background.xml" value="0.213" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/activity_guide.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/activity_login_home.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/activity_splash.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/divider_small.xml" value="0.3609375" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fill.xml" value="0.3609375" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_dialog_term_service.xml" value="0.3609375" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_discovery.xml" value="0.3609375" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_feed.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_guide.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_me.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_room.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/fragment_video.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/item_discovery_banner.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/super_round_dialog_loading.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/super_toast.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/layout/view_placeholder.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyCloudMusicAndroidJava/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

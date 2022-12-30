@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <include layout="@layout/divider_small" />
+
+    <!--region 底部tab-->
+    <!--底部tab
+    tl_indicator_color：高亮颜色
+    tl_textSelectColor：设置字体选中颜色
+    tl_textUnselectColor：设置字体未选中颜色-->
+    <com.flyco.tablayout.CommonTabLayout
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/d55"
+        android:background="?attr/colorTabBar"
+        app:tl_iconHeight="@dimen/d20"
+        app:tl_iconWidth="@dimen/d20"
+        app:tl_indicator_color="?attr/colorPrimary"
+        app:tl_indicator_height="0dp"
+        app:tl_textSelectColor="?attr/colorPrimary"
+        app:tl_textUnselectColor="?attr/colorOnSurface"
+        app:tl_textsize="@dimen/s12"
+        app:tl_underline_color="#DDDDDD"
+        app:tl_underline_height="0dp" />
+    <!--endregion-->
+
+</LinearLayout>
